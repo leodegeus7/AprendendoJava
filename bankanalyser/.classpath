@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/Arquivo Comprimido.zip"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/ooxml-lib/ooxml-security-1.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/ooxml-lib/ooxml-security-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/ooxml-lib/ooxml-schemas-1.3-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/ooxml-lib/ooxml-schemas-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/ooxml-lib/OfficeOpenXML-XMLSchema.zip"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/ooxml-lib/OpenPackagingConventions-XMLSchema.zip"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/ooxml-lib/OfficeOpenXML-Part2.zip"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/ooxml-lib/OfficeOpenXML-Part4.zip"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/ooxml-lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/lib/forbiddenapis-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/lib/apache-rat-0.12.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/lib/jacocoagent.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/lib/jacocoant.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/lib/org.jacoco.agent-0.7.7.201606060606.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/lib/org.jacoco.ant-0.7.7.201606060606.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/lib/org.jacoco.core-0.7.7.201606060606.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/lib/org.jacoco.report-0.7.7.201606060606.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/lib/jacoco-0.7.7.201606060606.zip"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/lib/ant-launcher-1.9.4.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/lib/asm-all-5.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/lib/ant-1.9.4.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/compile-lib/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/compile-lib/xmlsec-2.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/compile-lib/bcpkix-jdk15on-1.54.jar"/>
+	<classpathentry kind="lib" path="/Users/leodegeus/Downloads/poi-3.15/compile-lib/bcprov-ext-jdk15on-1.54.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

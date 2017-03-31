@@ -1,0 +1,5 @@
+int asciiForLowerA = 97;
+int asciiForLowerZ = 122;
+for(int asciiCode = asciiForLowerA; asciiCode <= asciiForLowerZ; asciiCode++){
+    search(sCurrentLine, searchKey + Character.toString ((char) asciiCode));
+}
